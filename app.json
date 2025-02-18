@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~HfRhgKaB#rpsMwLLY2SENJBP7bZ9cEvuiEWL6EHovskF84C0gKe4",
       "required": true,
       "value": ""
     },  
@@ -183,7 +183,7 @@
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "CUSTOM_REACT": {
